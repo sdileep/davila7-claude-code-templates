@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-23T08:22:39.743411+00:00",
-  "totalJobs": 94,
+  "lastUpdated": "2026-09-24T08:14:56.712746+00:00",
+  "totalJobs": 91,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -8,6 +8,27 @@
     "WeWorkRemotely"
   ],
   "jobs": [
+    {
+      "id": "anth-5382518008",
+      "company": "Anthropic",
+      "position": "Applied AI Architect, Public Sector ",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "As an Applied AI team member at Anthropic, you will be a Pre-Sales architect focused on becoming a trusted technical advisor helping systems integrators, startups, and other GovTech companies understand the value of Claude and paint the vision on how they can successfully integrate and deploy...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
+      "postedAt": "2026-09-23T13:17:43-04:00",
+      "tags": [
+        "Python",
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
     {
       "id": "anth-5428790008",
       "company": "Anthropic",
@@ -40,26 +61,6 @@
       "source": "Anthropic",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5428124008",
       "postedAt": "2026-09-22T13:17:59-04:00",
-      "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5427479008",
-      "company": "Anthropic",
-      "position": "Customer Success Manager, Public Sector (National Security) ",
-      "location": "Washington, DC",
-      "remote": false,
-      "salary": "",
-      "description": "As a Customer Success Manager on Anthropic's Public Sector team, you will be the post-sales trusted advisor helping national security customers realize the value of Claude and turn their investment into mission impact. You'll combine your customer success expertise with technical fluency to drive...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5427479008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5427479008",
-      "postedAt": "2026-09-18T18:50:40-04:00",
       "tags": [
         "Rust",
         "AWS",
@@ -109,26 +110,6 @@
         "GraphQL"
       ],
       "companyIcon": ""
-    },
-    {
-      "id": "anth-5425724008",
-      "company": "Anthropic",
-      "position": "Associate Solutions Architect",
-      "location": "London, UK",
-      "remote": false,
-      "salary": "",
-      "description": "We're looking for an Associate Solutions Architect to join our Applied AI team and help drive the adoption of Claude Code across our enterprise customers. As an Associate SA specializing in Claude Code, you'll be the technical bridge between our cutting-edge AI coding assistant and the engineering...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
-      "postedAt": "2026-09-16T12:20:01-04:00",
-      "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
       "id": "anth-5421566008",
@@ -1185,26 +1166,6 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
-      "id": "hn-48833943",
-      "company": "Catalyst·Wayfare AI",
-      "position": "Lead AI Engineer",
-      "location": "Remote (US)",
-      "remote": true,
-      "salary": "",
-      "description": "We build and ship production AI systems for mid-market enterprises in regulated and technical domains — finance, energy, industrials, healthcare. We do not stop at PowerPoint AI strategy. We ship working systems alongside our clients' engineering teams. Small teams, deep expertise, real autonomy on...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48833943",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48833943",
-      "postedAt": "2026-07-08T16:24:22+00:00",
-      "tags": [
-        "Python",
-        "AWS",
-        "GCP",
-        "Claude Code"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "hn-48823535",
       "company": "Note: This job is not longer vacant.",
       "position": "Senior Software Engineer",
@@ -1338,31 +1299,6 @@
         "Rust",
         "AWS",
         "GCP"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-48756639",
-      "company": "Dashdoc",
-      "position": "Software Engineer",
-      "location": "REMOTE / EU",
-      "remote": true,
-      "salary": "€50k–€80k",
-      "description": "Dashdoc is a SaaS Transport Management System for road freight. We help carriers and shippers run transport operations on one shared platform. We’re hiring a product-minded engineer to help us expand in Belgium and the Netherlands. Local specifics: e-CMR mandates, digital waste regulations,...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48756639",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48756639",
-      "postedAt": "2026-07-02T04:41:27+00:00",
-      "tags": [
-        "React",
-        "Python",
-        "Go",
-        "PostgreSQL",
-        "GCP",
-        "Claude Code",
-        "Cursor",
-        "React Native",
-        "Django"
       ],
       "companyIcon": ""
     },
